@@ -37,4 +37,5 @@ Além disso, trabalho com:
 ---
 
 ## Avatar
+![Avatar](./avatar.jpeg)
 
